@@ -35,10 +35,10 @@ A ONG Almas de Gato divulga seu trabalho principalmente pelo Instagram, o que li
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
+git clone https://github.com/danielandrade-png/Projeto-Almas-de-Gato.git
 
 # Acesse a pasta do projeto
-cd nome-da-pasta
+cd Projeto-Almas-de-Gato
 
 # Instale as dependências
 npm install
